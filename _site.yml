@@ -1,0 +1,19 @@
+name: "Sergio Castrillo"
+output_dir: docs
+navbar:
+  title: "Sergio Castrillo"
+  left:
+    - text: "Mi CV"
+      href: index.html
+    - text: "Markdown-Git"
+      href: markdown-git.html
+    - text: "Markdown-Firebase"
+      href: markdown-fbase.html
+    - text: "Shiny"
+      href: shiny.html
+    - text: "Hadoop Google"
+      href: hadoop-google.html
+    - text: "Hadoop VirtualBox"
+      href: hadoop-virtualbox.html
+    - text: "Acercac de"
+      href: about.html
